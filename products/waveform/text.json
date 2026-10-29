@@ -1,0 +1,11 @@
+{
+  "type": "website",
+  "name": "Waveform.",
+  "font": "waveform",
+  "lede": "Call anyone else with Waveform directly via browser.",
+  "status": "Available Now",
+  "order": 3,
+  "url": "https://blwaveform.vercel.app/",
+  "button": "Open Waveform →",
+  "disclaimer": "Connection is subject to faults due to external variables."
+}

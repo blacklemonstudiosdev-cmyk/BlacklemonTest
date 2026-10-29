@@ -1,0 +1,11 @@
+{
+  "type": "website",
+  "name": "BL Encrypt",
+  "font": "JetBrainsMono-Variable",
+  "lede": "An encryption even AI can't break.",
+  "status": "Available Now",
+  "order": 2,
+  "url": "https://blencrypt.vercel.app/",
+  "button": "Open BL Encrypt →",
+  "disclaimer": "BlackLemon Studios is not responsible for an interceptor also having BL Encrypt. There are no guarantees on strength against highly advanced AI models."
+}

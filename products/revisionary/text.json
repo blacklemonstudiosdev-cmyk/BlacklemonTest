@@ -1,0 +1,11 @@
+{
+  "type": "website",
+  "name": "Revisionary",
+  "font": "revisionary",
+  "lede": "An AI powered Revision tool for students around the world.",
+  "status": "Coming Soon",
+  "order": 7,
+  "url": "",
+  "button": "Open Revisionary",
+  "disclaimer": ""
+}

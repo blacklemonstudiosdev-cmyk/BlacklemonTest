@@ -1,0 +1,14 @@
+{
+  "type": "app",
+  "name": "Nexus",
+  "font": "nexus",
+  "lede": "Your day, night and probably rest of the year all planned out in one ultra-customisable app.",
+  "status": "Available Now",
+  "order": 1,
+  "mac": {
+    "silicon": "https://github.com/blacklemonstudiosdev-cmyk/Nexus-Silicon/releases/download/v1.4.0/Nexus-1.4.0-arm64.dmg",
+    "intel": "https://github.com/blacklemonstudiosdev-cmyk/Nexus-Intel/releases/download/v1.4.0/Nexus-1.4.0-x64.dmg"
+  },
+  "windows": "https://github.com/blacklemonstudiosdev-cmyk/Nexus-Windows/releases/download/v1.4.0/Nexus-1.4.0-x64.exe",
+  "disclaimer": "(Please Note: On Windows, you will have to click 'More Info' and then 'Run Anyway' on initial open.) App Size: ~300MB"
+}

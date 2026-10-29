@@ -1,0 +1,15 @@
+{
+  "type": "app",
+  "name": "Product Name",
+  "font": "nexus",
+  "fontWeight": "",
+  "lede": "One short sentence describing the product.",
+  "status": "Available Now",
+  "order": 6,
+  "mac": {
+    "silicon": "https://github.com/.../ProductName.Silicon.dmg",
+    "intel": "https://github.com/.../ProductName.Intel.dmg"
+  },
+  "windows": "REPLACE_WITH_WINDOWS_LINK",
+  "disclaimer": ""
+}

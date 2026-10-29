@@ -1,0 +1,11 @@
+{
+  "type": "app",
+  "name": "Lemon Studio.",
+  "font": "lemonstudio",
+  "lede": "The Ultimate Coding App for everyone.",
+  "status": "Coming Soon",
+  "order": 6,
+  "mac": { "silicon": "", "intel": "" },
+  "windows": "",
+  "disclaimer": ""
+}

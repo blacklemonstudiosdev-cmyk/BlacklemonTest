@@ -1,0 +1,12 @@
+{
+  "type": "app",
+  "name": "Almandine PC",
+  "font": "Boska",
+  "fontWeight": 200,
+  "lede": "An on-device AI app ready to serve under your command.",
+  "status": "Coming Soon",
+  "order": 5,
+  "url": "",
+  "button": "",
+  "disclaimer": ""
+}

@@ -1,0 +1,12 @@
+{
+  "type": "website",
+  "name": "Velocity Engine",
+  "font": "Author-Variable",
+  "fontWeight": "",
+  "lede": "A brand new Minecraft optimisation mod unlocking new levels of performance.",
+  "status": "Coming Soon",
+  "order": 9,
+  "url": "",
+  "button": "View Velocity Engine in Modrinth",
+  "disclaimer": "This mod is subject to ceased development."
+}

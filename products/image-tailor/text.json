@@ -1,0 +1,11 @@
+{
+  "type": "website",
+  "name": "Image Tailor",
+  "font": "imagetailor",
+  "lede": "A basic image editor with AI image generation too,",
+  "status": "Available Now",
+  "order": 4,
+  "url": "https://blimagetailor.vercel.app",
+  "button": "Open Image Tailor →",
+  "disclaimer": "Image Generation is subject to external server usages and downtimes."
+}

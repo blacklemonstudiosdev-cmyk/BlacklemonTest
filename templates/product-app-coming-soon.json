@@ -1,0 +1,12 @@
+{
+  "type": "app",
+  "name": "Product Name",
+  "font": "",
+  "fontWeight": "",
+  "lede": "One short sentence describing the product.",
+  "status": "Coming Soon",
+  "order": 9,
+  "mac": { "silicon": "", "intel": "" },
+  "windows": "",
+  "disclaimer": ""
+}

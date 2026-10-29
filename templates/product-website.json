@@ -1,0 +1,12 @@
+{
+  "type": "website",
+  "name": "Product Name",
+  "font": "blencrypt",
+  "fontWeight": "",
+  "lede": "One short sentence describing the product.",
+  "status": "Available Now",
+  "order": 6,
+  "url": "https://your-site.vercel.app/",
+  "button": "Open Product Name →",
+  "disclaimer": ""
+}
